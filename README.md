@@ -74,6 +74,8 @@ A jaw-dropping developer portfolio packed with interactive 3D animations, butter
     pnpm dev
     ```
 
+  Contact submissions are delivered online by Resend to the email address in `src/data/config.ts`. They remain available in that mailbox even if this repository or computer is deleted.
+
 5. Open [http://localhost:3000](http://localhost:3000) and see the magic ✨
 
 ---

@@ -28,7 +28,7 @@ const config = {
     "Framer Motion",
   ],
   author: "Archit Vashisth",
-  email: "hello@architvashisth.dev",
+  email: "vashistharchit5@gmail.com",
   site: "https://architvashisth.dev",
 
   // for github stars button
